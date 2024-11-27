@@ -1,0 +1,11 @@
+[
+    {
+      "role": ["Software Engineer " , " UI Designer"],
+      "organisation": "Focus360",
+      "startDate": "Apr, 2022",
+      "endDate": "Jun, 2022",
+      "experiences": ["Redesinged the display of the App", "Implemented new functions into the app"],
+      "imageSrc": "history/focus.png"
+    }
+  ]
+  

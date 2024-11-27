@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Project APP",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Angular", "Typescript", "Node" , "JavaScript", "MySQL"],
+      "demo": "https://github.com/RubenToledortiz/ProjectApp",
+      "source": "https://github.com/RubenToledortiz"
+    },
+    {
+      "title": "Project Videogame",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn how a videogame is done.",
+      "skills": ["C#", "Unity"],
+      "demo": "https://github.com/RubenToledortiz/ProjectGame", 
+      "source": "https://github.com/RubenToledortiz"
+    },
+    {
+      "title": "Porfolio Project",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "Node"],
+      "demo": "https://github.com/RubenToledortiz/Portfolio",
+      "source": "https://github.com/RubenToledortiz"
+    }
+  ]
+  
